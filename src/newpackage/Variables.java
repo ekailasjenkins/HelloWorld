@@ -9,6 +9,9 @@ public class Variables {
         int sadsa= 45;
 
         System.out.println(age);
+        System.out.println(age1);
+        System.out.println(sadsa);
+
 
 
     }
